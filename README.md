@@ -6,7 +6,7 @@ I tried to solve puzzles by using [Crystal language](https://crystal-lang.org/) 
 
 ## Current Code Size (part 1 / part 2)
 
-- Day  1 (87 byte / 93 byte)
-- Day  2 (83 byte / 86 byte)
+- Day  1 ( 87 byte /  93 byte)
+- Day  2 ( 81 byte /  85 byte)
 - Day  3 (118 byte / 113 byte)
 - Day  4 (127 byte / 119 byte)
