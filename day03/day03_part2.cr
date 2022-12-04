@@ -1,0 +1,1 @@
+p STDIN.each_line.slice(3).map{|g|g.map(&.to_slice.to_set).reduce{|a,i|a&i}.map{|c|c-(c>90?96:38)}.sum(0u64)}.sum
