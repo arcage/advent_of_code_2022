@@ -4,6 +4,8 @@ This repository is record of my challenges to [Advent of Code 2022](https://adve
 
 I tried to solve puzzles by using [Crystal language](https://crystal-lang.org/) and make source code shortest as possible like [Code Golf](https://en.wikipedia.org/wiki/Code_golf).
 
+Every codes expect to read input data from STDIN and write result to STDOUT.
+
 ## Current Code Size (part 1 / part 2)
 
 - Day  1 ( 87 byte /  93 byte)
