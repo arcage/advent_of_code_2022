@@ -8,7 +8,9 @@ Every codes expect to read input data from STDIN and write result to STDOUT.
 
 ## Current Code Size (part 1 / part 2)
 
-- Day  1 ( 87 byte /  93 byte)
-- Day  2 ( 81 byte /  85 byte)
+- Day  1 ( 79 byte /  90 byte)
+- Day  2 ( 79 byte /  83 byte)
 - Day  3 (118 byte / 113 byte)
 - Day  4 (127 byte / 119 byte)
+- Day  5 (329 byte / 323 byte)
+

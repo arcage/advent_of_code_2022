@@ -1,1 +1,1 @@
-p STDIN.gets_to_end.chomp.split("\n\n").map{|e|e.split('\n').map(&.to_i).sum}.sort[-1]
+p STDIN.gets_to_end.chomp.split("\n\n").map(&.split('\n').map(&.to_i).sum).max
