@@ -13,4 +13,5 @@ Every codes expect to read input data from STDIN and write result to STDOUT.
 - Day  3 (118 byte / 113 byte)
 - Day  4 (121 byte / 114 byte)
 - Day  5 (329 byte / 323 byte)
+- Day  6 ( 96 byte / 100 byte)
 
