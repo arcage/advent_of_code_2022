@@ -8,7 +8,7 @@ Every codes expect to read input data from `STDIN` and write result to `STDOUT`.
 
 ## Current Code Size (part 1 / part 2)
 
-- [Day 1](https://github.com/arcage/advent_of_code_2022/tree/main/day01) ( 79 byte /  90 byte)
+- [Day 1](https://github.com/arcage/advent_of_code_2022/tree/main/day01) ( 73 byte /  84 byte)
 - [Day 2](https://github.com/arcage/advent_of_code_2022/tree/main/day02) ( 79 byte /  83 byte)
 - [Day 3](https://github.com/arcage/advent_of_code_2022/tree/main/day03) (118 byte / 113 byte)
 - [Day 4](https://github.com/arcage/advent_of_code_2022/tree/main/day04) (121 byte / 114 byte)
