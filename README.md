@@ -15,3 +15,4 @@ Every codes expect to read input data from `STDIN` and write result to `STDOUT`.
 - [Day 5](https://github.com/arcage/advent_of_code_2022/tree/main/day05) (307 byte / 301 byte)
 - [Day 6](https://github.com/arcage/advent_of_code_2022/tree/main/day06) ( 94 byte /  98 byte)
 - [Day 7](https://github.com/arcage/advent_of_code_2022/tree/main/day07) (435 byte / 442 byte)
+- [Day 8](https://github.com/arcage/advent_of_code_2022/tree/main/day08) (362 byte / 310 byte)
