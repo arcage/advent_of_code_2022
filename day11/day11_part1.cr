@@ -20,8 +20,8 @@ end
 def r
 while k=@i.shift?
 @b+=1
-o=(@o=~/^o/ ? k : @o.to_i)
-w=(@s=="*" ? k*o : k+o)//3
+o=(@o=~/^o/ ?k : @o.to_i)
+w=(@s=="*" ?k*o : k+o)//3
 N[@t[w%@d<=>0]].a(w)
 end
 end

@@ -1,6 +1,6 @@
 alias S=String
 class M
-@@d = 1
+@@d=1
 @n: S
 getter i : Array(Int64)
 @s: S
@@ -22,8 +22,8 @@ end
 def r
 while k=@i.shift?
 @b+=1
-o=(@o=~/^o/ ? k : @o.to_i)
-w=(@s=="*" ? k*o : k+o)
+o=(@o=~/^o/ ?k : @o.to_i)
+w=(@s=="*" ?k*o : k+o)
 N[@t[w%@d<=>0]].a(w%@@d)
 end
 end
